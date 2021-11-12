@@ -13,7 +13,14 @@ public class Main {
 	public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
 	double initial_velocity, final_velocity, acceleration, time;
-		
+	
+	System.out.println("Enter the final velocity of the object");
+	final_velocity = input.nextDouble();
+	System.out.println("Enter the inital velocity of the object");
+	inital_velocity = input.nextDouble();
+	System.out.println("Enter the change in time");
+	time = input.nextDouble();
+			
 
 	}
 }
