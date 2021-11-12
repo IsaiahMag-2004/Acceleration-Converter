@@ -18,13 +18,13 @@ public class Main {
 	System.out.println("Enter the final velocity of the object");
 	final_velocity = input.nextDouble();
 	System.out.println("Enter the inital velocity of the object");
-	inital_velocity = input.nextDouble();
+	initial_velocity = input.nextDouble();
 	System.out.println("Enter the change in time");
 	time = input.nextDouble();
 	System.out.println("Enter the units your gonna be using");
 	units = input.next();
 
-	acceleration = (final_velocity - initial_velocity) / time;
+	acceleration = Math.round((final_velocity - initial_velocity) / time) * 100) / 100.0;
 
 	System.out.println("The objects acceleration is " + acceleration + units);			
 
