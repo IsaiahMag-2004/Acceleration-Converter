@@ -4,3 +4,14 @@
  
  Main.java
 */
+import java.util.Scanner;
+
+public class Main {
+	/**
+	 Main method to run program
+	*/
+	public static void main(String[] args) {
+	Scanner input = new Scanner(System.in);	
+
+	}
+}
