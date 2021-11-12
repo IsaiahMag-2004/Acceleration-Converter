@@ -24,7 +24,7 @@ public class Main {
 	System.out.println("Enter the units your gonna be using");
 	units = input.next();
 
-	acceleration = Math.round((final_velocity - initial_velocity) / time) * 100) / 100.0;
+	acceleration = Math.round((final_velocity - initial_velocity) / time * 100) / 100.0;
 
 	System.out.println("The objects acceleration is " + acceleration + units);			
 
