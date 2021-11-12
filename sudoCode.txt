@@ -4,7 +4,7 @@ Create variable inital_velocity of type decimal with no value
 Create variable final_velocity of type decilam with no value
 Create variable change_in_time of type decimal with no vlaue
 Create variable acceleration of type decimal with no value 
-
+Create variable units of type String with no value
 
 
 
@@ -14,9 +14,9 @@ Create variable acceleration of type decimal with no value
 prompt the user "Enter the initial velocity" and assign it to intial_velocity
 prompt the user "Enter the final velocity" and assign it to final_velocity
 prompt the user "Enter the change in time" and assign it to change_in_time
-
+prompt the user "Enter the final units of hte problem" and assign it to units
 
 
 acceeration is the  value of final_velocity minus inital_velocity over change_in_time
 
-
+print to the consol "The acceleration is " concatinate variable acceleration
