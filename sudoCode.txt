@@ -11,20 +11,9 @@ Create variable acceleration of type decimal with no value
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+prompt the user "Enter the initial velocity" and assign it to intial_velocity
+prompt the user "Enter the final velocity" and assign it to final_velocity
+prompt the user "Enter the change in time" and assign it to change_in_time
 
 
 
