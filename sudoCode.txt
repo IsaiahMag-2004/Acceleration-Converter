@@ -1,0 +1,33 @@
+Acceleration 0.01 sudo code
+
+Create variable inital_velocity of type decimal with no value
+Create variable final_velocity of type decilam with no value
+Create variable change_in_time of type decimal with no vlaue
+Create variable acceleration of type decimal with no value 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+acceeration is the  value of final_velocity minus inital_velocity over change_in_time
+
+
