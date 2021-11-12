@@ -13,6 +13,7 @@ public class Main {
 	public static void main(String[] args) {
 	Scanner input = new Scanner(System.in);
 	double initial_velocity, final_velocity, acceleration, time;
+	String units;
 	
 	System.out.println("Enter the final velocity of the object");
 	final_velocity = input.nextDouble();
@@ -20,6 +21,8 @@ public class Main {
 	inital_velocity = input.nextDouble();
 	System.out.println("Enter the change in time");
 	time = input.nextDouble();
+	System.out.println("Enter the units your gonna be using");
+	units = input.next();
 			
 
 	}
