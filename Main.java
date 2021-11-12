@@ -11,7 +11,9 @@ public class Main {
 	 Main method to run program
 	*/
 	public static void main(String[] args) {
-	Scanner input = new Scanner(System.in);	
+	Scanner input = new Scanner(System.in);
+	double initial_velocity, final_velocity, acceleration, time;
+		
 
 	}
 }
