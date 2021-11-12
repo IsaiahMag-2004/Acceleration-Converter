@@ -23,7 +23,10 @@ public class Main {
 	time = input.nextDouble();
 	System.out.println("Enter the units your gonna be using");
 	units = input.next();
-			
+
+	acceleration = (final_velocity - initial_velocity) / time;
+
+	System.out.println("The objects acceleration is " + acceleration + units);			
 
 	}
 }
